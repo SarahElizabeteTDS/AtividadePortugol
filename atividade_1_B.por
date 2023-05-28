@@ -7,6 +7,6 @@ programa
 
 		minutosDecada = horasDecada*60
 
-		escreva("Há ", minutosDecada, " minutos")
+		escreva("Em uma década há ", minutosDecada, " minutos")
 	}
 }
