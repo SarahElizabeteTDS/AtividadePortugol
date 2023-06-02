@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro areaPintar, litrosTinta, precoLitroTinta, baldes
+		real areaPintar, litrosTinta, precoLitroTinta, baldes
 
 		escreva("Qual a área (em metros quadrados) que deve ser pintada?", "\n")
 		leia(areaPintar)
